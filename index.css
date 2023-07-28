@@ -128,7 +128,7 @@ body {
 }
 
 .card-group {
-  animation: cssAnimation 0s 1s forwards;
+  animation: cssAnimation 0s 12s forwards;
   visibility: hidden;
   position: absolute;
 }

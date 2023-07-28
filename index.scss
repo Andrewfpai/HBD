@@ -214,7 +214,7 @@ body {
 
 
 .card-group{
-    animation: cssAnimation 0s 12s forwards;
+    animation: cssAnimation 0s 1s forwards;
     visibility: hidden;
     position: absolute;
 
@@ -274,6 +274,7 @@ body {
     transform: rotate(90deg) scale(-1);
     
   }
+  
   
   .card.animated .second-content {
     opacity: 1;
@@ -338,6 +339,7 @@ body {
     margin: 0 auto;
     border-radius: 25px;
     margin-bottom: 30px;
+    flex: 1;
   }
   
   
